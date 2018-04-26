@@ -1,0 +1,26 @@
+{
+  "name": "rest_api_app",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teusa/test.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "brayam_ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teusa/test/issues"
+  },
+  "homepage": "https://github.com/teusa/test#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  }
+}
